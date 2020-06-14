@@ -1,6 +1,6 @@
 <html>
 <body bgcolor="purple">
 <h1>"WELCOME"</h1>
-<img src="http://d33v7fnibwcu7k.cloudfront.net.cloudfront.net/image.jpg">
+<img src="http://d3rpxdv4i1mtue.cloudfront.net">
 </body>
 </html>
